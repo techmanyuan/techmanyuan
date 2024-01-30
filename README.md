@@ -6,6 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techmanyuan)](https://github.com/techmanyuan/github-readme-stats)
+
 <!---
 techmanyuan/techmanyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
